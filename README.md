@@ -1,5 +1,5 @@
 # spring-cloud-fundamentals-zuul
-Demo on spring cloud intelligent routin using spring cloud netflix zuul project
+Demo on spring cloud intelligent routing using spring cloud netflix zuul project
 
 
 This project consists of 4 nested projects
